@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" client="site" type="language" method="upgrade">
+	<name>Amharic (Ethiopia)</name>
+	<tag>am-ET</tag>
+	<version>3.1.0.1</version>
+	<creationDate>2013-4-26</creationDate>
+	<author>Arade Tariku</author>
+	<authorEmail>arade_tariku@yahoo.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>am-ET site language</description>
+	<files>
+		<filename>index.html</filename>
+		<filename>am-ET.com_contact.ini</filename>
+		<filename>am-ET.com_content.ini</filename>
+		<filename>am-ET.com_finder.ini</filename>
+		<filename>am-ET.com_mailto.ini</filename>
+		<filename>am-ET.com_media.ini</filename>
+		<filename>am-ET.com_messages.ini</filename>
+		<filename>am-ET.com_newsfeeds.ini</filename>
+		<filename>am-ET.com_search.ini</filename>
+		<filename>am-ET.com_tags.ini</filename>
+		<filename>am-ET.com_users.ini</filename>
+		<filename>am-ET.com_weblinks.ini</filename>
+		<filename>am-ET.com_wrapper.ini</filename>
+		<filename>am-ET.files_joomla.sys.ini</filename>
+		<filename>am-ET.finder_cli.ini</filename>
+		<filename>am-ET.ini</filename>
+		<filename>am-ET.lib_joomla.ini</filename>
+		<filename>am-ET.lib_joomla.sys.ini</filename>
+		<filename>am-ET.lib_phpmailer.sys.ini</filename>
+		<filename>am-ET.lib_phputf8.sys.ini</filename>
+		<filename>am-ET.lib_simplepie.sys.ini</filename>
+		<filename>am-ET.localise.php</filename>
+		<filename>am-ET.mod_articles_archive.ini</filename>
+		<filename>am-ET.mod_articles_archive.sys.ini</filename>
+		<filename>am-ET.mod_articles_categories.ini</filename>
+		<filename>am-ET.mod_articles_categories.sys.ini</filename>
+		<filename>am-ET.mod_articles_category.ini</filename>
+		<filename>am-ET.mod_articles_category.sys.ini</filename>
+		<filename>am-ET.mod_articles_latest.ini</filename>
+		<filename>am-ET.mod_articles_latest.sys.ini</filename>
+		<filename>am-ET.mod_articles_news.ini</filename>
+		<filename>am-ET.mod_articles_news.sys.ini</filename>
+		<filename>am-ET.mod_articles_popular.ini</filename>
+		<filename>am-ET.mod_articles_popular.sys.ini</filename>
+		<filename>am-ET.mod_banners.ini</filename>
+		<filename>am-ET.mod_banners.sys.ini</filename>
+		<filename>am-ET.mod_breadcrumbs.ini</filename>
+		<filename>am-ET.mod_breadcrumbs.sys.ini</filename>
+		<filename>am-ET.mod_custom.ini</filename>
+		<filename>am-ET.mod_custom.sys.ini</filename>
+		<filename>am-ET.mod_feed.ini</filename>
+		<filename>am-ET.mod_feed.sys.ini</filename>
+		<filename>am-ET.mod_finder.ini</filename>
+		<filename>am-ET.mod_finder.sys.ini</filename>
+		<filename>am-ET.mod_footer.ini</filename>
+		<filename>am-ET.mod_footer.sys.ini</filename>
+		<filename>am-ET.mod_languages.ini</filename>
+		<filename>am-ET.mod_languages.sys.ini</filename>
+		<filename>am-ET.mod_login.ini</filename>
+		<filename>am-ET.mod_login.sys.ini</filename>
+		<filename>am-ET.mod_menu.ini</filename>
+		<filename>am-ET.mod_menu.sys.ini</filename>
+		<filename>am-ET.mod_random_image.ini</filename>
+		<filename>am-ET.mod_random_image.sys.ini</filename>
+		<filename>am-ET.mod_related_items.ini</filename>
+		<filename>am-ET.mod_related_items.sys.ini</filename>
+		<filename>am-ET.mod_search.ini</filename>
+		<filename>am-ET.mod_search.sys.ini</filename>
+		<filename>am-ET.mod_stats.ini</filename>
+		<filename>am-ET.mod_stats.sys.ini</filename>
+		<filename>am-ET.mod_syndicate.ini</filename>
+		<filename>am-ET.mod_syndicate.sys.ini</filename>
+		<filename>am-ET.mod_tags_popular.ini</filename>
+		<filename>am-ET.mod_tags_popular.sys.ini</filename>
+		<filename>am-ET.mod_tags_similar.ini</filename>
+		<filename>am-ET.mod_tags_similar.sys.ini</filename>
+		<filename>am-ET.mod_users_latest.ini</filename>
+		<filename>am-ET.mod_users_latest.sys.ini</filename>
+		<filename>am-ET.mod_weblinks.ini</filename>
+		<filename>am-ET.mod_weblinks.sys.ini</filename>
+		<filename>am-ET.mod_whosonline.ini</filename>
+		<filename>am-ET.mod_whosonline.sys.ini</filename>
+		<filename>am-ET.mod_wrapper.ini</filename>
+		<filename>am-ET.mod_wrapper.sys.ini</filename>
+		<filename>am-ET.tpl_beez3.ini</filename>
+		<filename>am-ET.tpl_beez3.sys.ini</filename>
+		<filename>am-ET.tpl_protostar.ini</filename>
+		<filename>am-ET.tpl_protostar.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+		<filename file="meta">am-ET.xml</filename>
+	</files>
+	<params />
+</extension>

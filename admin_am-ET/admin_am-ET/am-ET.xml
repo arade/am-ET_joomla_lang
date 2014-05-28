@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.0" client="administrator">
+	<name>Amharic (Ethiopia)</name>
+	<tag>am-ET</tag>
+	<description>am-ET administrator language</description>
+	<version>3.1.0.1</version>
+	<creationDate>2013-4-26</creationDate>
+	<author>Arade Tariku</author>
+	<authorEmail>arade_tariku@yahoo.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<metadata>
+		<name>Amharic (Ethiopia)</name>
+		<tag>am-ET</tag>
+		<rtl>0</rtl>
+		<locale>am_ET.utf8, am_ET.UTF-8, am_ET, amh_ET, am, amh, amharic, ethiopic</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
